@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AleKit
 - 👀 I’m interested in astrophysics 🌌, programming 💻, videogames 🎮 and music 🎵
-- 🌱 I’m currently a PhD student working on dark matter
+- 🌱 I’m currently a PDRA in Durham Uni working on dark matter simulations
 - 💞️ AAA :)
 - 🍰
 
